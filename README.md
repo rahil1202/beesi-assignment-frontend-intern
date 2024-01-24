@@ -4,7 +4,7 @@ Welcome to the "How It Works" React application! This interactive app provides a
 
 ## Preview
 
-Check out the live preview of the app on [Vercel](https://beesi-assignment-rahil1202.vercel.app)!
+Check out the live preview of the app on [Vercel](https://beesi-addignment-rahil1202.vercel.app/)!
 
 ## Table of Contents
 
